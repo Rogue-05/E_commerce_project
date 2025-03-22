@@ -9,7 +9,6 @@ A full-stack MERN (MongoDB, Express, React, Node.js) based e-commerce website bu
 - Add to Cart & Remove from Cart
 - Quantity update in cart
 - Protected routes for authenticated users
-- Admin panel to manage products (optional)
 - Responsive design
 
 ---
